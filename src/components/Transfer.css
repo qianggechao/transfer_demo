@@ -1,0 +1,27 @@
+.transfer{
+  display: flex;
+}
+
+.transferList{
+  min-width: 300px;
+  border: 1px solid gray;
+}
+
+.transferTarge{
+  min-width: 300px;
+  border: 1px solid gray;
+}
+
+.transferButton{
+  margin: 0 16px;
+}
+
+.transferButton button:first-child{
+  margin-right: 10px;
+}
+
+.transferContent{
+  padding: 16px;
+  border: 1px solid gray;
+  text-align: left;
+}
